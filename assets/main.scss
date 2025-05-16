@@ -1,0 +1,14 @@
+---
+---
+@import "minima";
+body {
+  font-size: 18px;
+  line-height: 1.8em;
+}
+.post-content > p {
+  text-indent: 2em;
+}
+.mgl, td strong {
+  writing-mode: vertical-lr;
+  font-family: "Noto Sans Mongolian"
+}
